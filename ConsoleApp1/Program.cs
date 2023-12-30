@@ -62,6 +62,8 @@ namespace ConsoleApp1
             n = System.Math.Abs(x - y) * (System.Math.Pow(System.Math.Sin(z), 2) + System.Math.Tan(z));
             s = m / n;
             Console.WriteLine("Результат обчислення: s = {0}\n Izmenenie", s);
+            Console.WriteLine("Були внесені змінни!");
+
 
         }
     }
