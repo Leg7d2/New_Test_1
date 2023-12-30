@@ -1,0 +1,14 @@
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\legen\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Baza\oop-lab1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

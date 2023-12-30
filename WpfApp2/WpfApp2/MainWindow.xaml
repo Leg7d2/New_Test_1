@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Лабораторна робота 1. Завдання 2" Height="330" Width="396" Icon="/free-icon-fractal-4525936.png" WindowStartupLocation="CenterScreen" Background="#FFFFFD9A" MinWidth="210" MinHeight="345" MaxWidth="556" MaxHeight="400">
+    <Grid>
+        <Label x:Name="label_a1" Content="a =" HorizontalAlignment="Left" Margin="9,11,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1" Width="37"/>
+        <Label x:Name="label_b1" Content="b =" HorizontalAlignment="Left" Margin="9,42,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1" Width="37"/>
+        <Label x:Name="label_c1" Content="c =" HorizontalAlignment="Left" Margin="9,73,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1" Width="37"/>
+        <Label x:Name="label_D1" Content="D =" HorizontalAlignment="Left" Margin="9,165,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1" Width="37"/>
+        <Label x:Name="label_x11" Content="x1 =" HorizontalAlignment="Left" Margin="9,196,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1"/>
+        <Label x:Name="label_x22" Content="x2 =" HorizontalAlignment="Left" Margin="9,227,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1"/>
+        <Label x:Name="label_xx" Content="x =" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" Background="#FF99B4D1" Width="36"/>
+        <Button Content="Обчислити" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top" Width="109" Height="27" Background="#FF40CFFF" Click="Button_Click"/>
+        <TextBox x:Name="a1" Margin="63,15,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top"/>
+        <TextBox x:Name="b1" Margin="63,46,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top"/>
+        <TextBox x:Name="c1" Margin="63,77,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top"/>
+        <TextBox x:Name="D" Margin="63,169,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top" IsReadOnly="True"/>
+        <TextBox x:Name="x11" Margin="63,200,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top" IsReadOnly="True"/>
+        <TextBox x:Name="x22" Margin="63,231,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top" IsReadOnly="True"/>
+        <TextBox x:Name="xx" Margin="63,200,10,0" TextWrapping="Wrap" FontFamily="Arial" FontSize="14" VerticalAlignment="Top" IsReadOnly="True"/>
+        <Label x:Name="nan" Content="Розвязків немає" HorizontalAlignment="Right" Margin="0,196,10,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14"/>
+        <Label x:Name="NAME" Content="Присяжнюк Т.С., гр. ЗІПЗ-21" HorizontalAlignment="Right" Margin="0,261,0,0" VerticalAlignment="Bottom" FontFamily="Arial" FontSize="14"/>
+
+    </Grid>
+</Window>
